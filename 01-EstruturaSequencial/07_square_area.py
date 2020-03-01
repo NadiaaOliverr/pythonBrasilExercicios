@@ -4,4 +4,4 @@ quadrado, em seguida mostre o dobro desta
 side = int(input())
 area = pow(side, 2)
 double_area = 2 * area
-print(double_area)
+print(f'The double of area is {double_area}')
