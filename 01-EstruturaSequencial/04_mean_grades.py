@@ -9,4 +9,4 @@ for i in range(4):
 sum_grades = reduce(
     (lambda value_one, value_two: value_one + value_two), grades)
 mean_grades = sum_grades / 4
-print(f'The mean of grades informated is {mean_grades}')
+print(f'The mean of grades informed is {mean_grades}')
